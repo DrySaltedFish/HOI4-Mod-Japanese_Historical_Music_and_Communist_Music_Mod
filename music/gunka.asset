@@ -1,0 +1,671 @@
+
+music = {
+	name = "AgeyoHinomaru"
+	file = "AgeyoHinomaru.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AikokuKoshinkyoku2"
+	file = "AikokuKoshinkyoku2.ogg"
+	volume = 0.65
+}
+music = {
+	name = "AikokuKoushinkyoku"
+	file = "AikokuKoushinkyoku.ogg"
+	volume = 0.65
+}
+music = {
+	name = "AkatsukiniInoru"
+	file = "AkatsukiniInoru.ogg"
+	volume = 0.65
+}
+
+# General war:
+music = {
+	name = "AmerikaBakugeki"
+	file = "AmerikaBakugeki.ogg"
+	volume = 0.65
+}
+music = {
+	name = "ArawashiNoUta"
+	file = "ArawashiNoUta.ogg"
+	volume = 0.65
+}
+
+
+# Allies Peace:
+music = {
+	name = "BakudanSanyushi"
+	file = "BakudanSanyushi.ogg"
+	volume = 0.65
+}
+music = {
+	name = "BanzaiHitoraYuugento"
+	file = "BanzaiHitoraYuugento.ogg"
+	volume = 0.65
+}
+
+
+# Allies War:
+music = {
+	name = "Battoutai"
+	file = "Battoutai.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Battoutai2"
+	file = "Battoutai2.ogg"
+	volume = 0.65
+}
+
+
+# Axis Peace:
+music = {
+	name = "BeieiGekimetsu"
+	file = "BeieiGekimetsu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Byakkotai"
+	file = "Byakkotai.ogg"
+	volume = 0.65
+}
+
+
+# Axis War:
+music = {
+	name = "ChizomeNoDenrei"
+	file = "ChizomeNoDenrei.ogg"
+	volume = 0.65
+}
+music = {
+	name = "ComradeinArms"
+	file = "ComradeinArms.ogg"
+	volume = 0.65
+}
+music = {
+	name = "ComradeinArms2"
+	file = "ComradeinArms2.ogg"
+	volume = 0.65
+}
+music = {
+	name = "DaiKoku"
+	file = "DaiKoku.ogg"
+	volume = 0.65
+}
+
+
+# Comintern Peace:
+
+music = {
+	name = "DaiNipponNoUta"
+	file = "DaiNipponNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DaitoaKessenNoUta"
+	file = "DaitoaKessenNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DaitoaSensoKaigunNoUta"
+	file = "DaitoaSensoKaigunNoUta.ogg"
+	volume = 0.65
+}
+
+# Comintern War:
+
+music = {
+	name = "DaiTouaSensouKaigunnoUta"
+	file = "DaiTouaSensouKaigunnoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DatoBeiei"
+	file = "DatoBeiei.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DokinoSakura"
+	file = "DokinoSakura.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "EireiSanka"
+	file = "EireiSanka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "FieldEncampmentSong"
+	file = "FieldEncampmentSong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "FujinJugunka"
+	file = "FujinJugunka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GekkaNoJin"
+	file = "GekkaNoJin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GenkoHotoNoIkusa"
+	file = "GenkoHotoNoIkusa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GetsuGetsuKaSuiMokuKinKin"
+	file = "GetsuGetsuKaSuiMokuKinKin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GetsuGetsuKaSuiMokuKinKin2"
+	file = "GetsuGetsuKaSuiMokuKinKin2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Gochin"
+	file = "Gochin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Gouchin"
+	file = "Gouchin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GunjinChokuyu"
+	file = "GunjinChokuyu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GunkanKoshinkyoku2"
+	file = "GunkanKoshinkyoku2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GunkanKoshinkyoku3"
+	file = "GunkanKoshinkyoku3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GunkanKoushinkyoku"
+	file = "GunkanKoushinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GunkanMarch"
+	file = "GunkanMarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GuraidaButai"
+	file = "GuraidaButai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HakuiNoYushiNiTsugu"
+	file = "HakuiNoYushiNiTsugu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HashireHinomaruGinrinButai"
+	file = "HashireHinomaruGinrinButai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HawaiDaikaisen"
+	file = "HawaiDaikaisen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HinomaruKoshinkyoku"
+	file = "HinomaruKoshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HiroseChuusa"
+	file = "HiroseChuusa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HoheiNoHonryo"
+	file = "HoheiNoHonryo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "IkaniKyofu"
+	file = "IkaniKyofu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "IkokuNoOka"
+	file = "IkokuNoOka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "IndoKokuSakusenNoUta"
+	file = "IndoKokuSakusenNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KachidokiNoUta"
+	file = "KachidokiNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KakuteKamikazeWaFuku"
+	file = "KakuteKamikazeWaFuku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KanetsushikiKoshinkyoku"
+	file = "KanetsushikiKoshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KatoHayabusaSentotai"
+	file = "KatoHayabusaSentotai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KatouHayabusaSentoutai"
+	file = "KatouHayabusaSentoutai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KigenniSenRokuHyakunen"
+	file = "KigenniSenRokuHyakunen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KijoNoUta"
+	file = "KijoNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KimigayoKoushinkyoku"
+	file = "KimigayoKoushinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KimiKosoTsugiNoArawashiDa"
+	file = "KimiKosoTsugiNoArawashiDa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KogunNyujo"
+	file = "KogunNyujo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KogunTaishoNoUta"
+	file = "KogunTaishoNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KokuminShingunka"
+	file = "KokuminShingunka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KuniNoShizumemizukuKabaneInochiWoSutete"
+	file = "KuniNoShizumemizukuKabaneInochiWoSutete.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ManshukokuKoteiHeikaHogeika"
+	file = "ManshukokuKoteiHeikaHogeika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MantetsuShaka"
+	file = "MantetsuShaka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MaraiNoTora"
+	file = "MaraiNoTora.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MugitoHeitai"
+	file = "MugitoHeitai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "NihonkaiKaisen"
+	file = "NihonkaiKaisen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "NihonRikugun"
+	file = "NihonRikugun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "NipponKaigun"
+	file = "NipponKaigun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "NipponRikugun"
+	file = "NipponRikugun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "NisshokiNoMotoNi"
+	file = "NisshokiNoMotoNi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RabauruKaigunKokutai"
+	file = "RabauruKaigunKokutai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RaigekitaiNoUta"
+	file = "RaigekitaiNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RaigekitaiShutsudo"
+	file = "RaigekitaiShutsudo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RikugunBunretsuKoshinkyoku"
+	file = "RikugunBunretsuKoshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RikugunSokuhoKoshin"
+	file = "RikugunSokuhoKoshin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RippaNaHeitai"
+	file = "RippaNaHeitai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RoeiNoUta"
+	file = "RoeiNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SaipanJunkokuNoUta"
+	file = "SaipanJunkokuNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SeinenNippon"
+	file = "SeinenNippon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Senyu"
+	file = "Senyu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SenyunoIkotsuwoDaite"
+	file = "SenyunoIkotsuwoDaite.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Senyuu"
+	file = "Senyuu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShikishimakanKoshinkyoku"
+	file = "ShikishimakanKoshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShonenSenshaheiNoUta"
+	file = "ShonenSenshaheiNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShoriNoHiMade"
+	file = "ShoriNoHiMade.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShowaIshinKoshinkyoku"
+	file = "ShowaIshinKoshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShusseiHeishiWoOkuruUta"
+	file = "ShusseiHeishiWoOkuruUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShusseiHeishiWoOkuruUta2"
+	file = "ShusseiHeishiWoOkuruUta2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShusseiKansoNoUta"
+	file = "ShusseiKansoNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SoranoShinpei"
+	file = "SoranoShinpei.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SuishieinoKaiken"
+	file = "SuishieinoKaiken.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TachibanaChusa"
+	file = "TachibanaChusa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TaiatariSeishin"
+	file = "TaiatariSeishin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TaiheiyouKoushinkyoku"
+	file = "TaiheiyouKoushinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TaiseiYokusanNoUta"
+	file = "TaiseiYokusanNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TekiwaIkuman"
+	file = "TekiwaIkuman.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TekiWaIkuman2"
+	file = "TekiWaIkuman2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TogetariKamikaze"
+	file = "TogetariKamikaze.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Tohiko"
+	file = "Tohiko.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TokyoKoshinkyoku"
+	file = "TokyoKoshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "UmeToHeitai"
+	file = "UmeToHeitai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "UmiYukaba"
+	file = "UmiYukaba.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "UmiYukabaBattoutai"
+	file = "UmiYukabaBattoutai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WakawashiNoUta"
+	file = "WakawashiNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WareraNoGuntai"
+	file = "WareraNoGuntai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "YasukuniJinjaNoUta"
+	file = "YasukuniJinjaNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "YokarenNoUta"
+	file = "YokarenNoUta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "YukanNaruSuihei"
+	file = "YukanNaruSuihei.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "YukinoShingun"
+	file = "YukinoShingun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "YukiNoShingun2"
+	file = "YukiNoShingun2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SusumeDaitoa"
+	file = "SusumeDaitoa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "shieldsocietyanthem"
+	file = "shieldsocietyanthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Showa_rinyuarusongu"
+	file = "Showa_rinyuarusongu.ogg"
+	volume = 0.65
+}
