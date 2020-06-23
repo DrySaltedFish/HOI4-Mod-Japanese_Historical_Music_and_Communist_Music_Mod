@@ -3,5013 +3,4007 @@
 music_station = "gunka"
 
 music = {
-	song = "AgeyoHinomaru"
-
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "AikokuKoshinkyoku2"
-	
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "AikokuKoushinkyoku"
-	
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "AkatsukiniInoru"
-	
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "AmerikaBakugeki"
-	
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ArawashiNoUta"
-	
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "BakudanSanyushi"
-	
-	chance = {
-		factor = 2
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "BanzaiHitoraYuugento"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Battoutai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Battoutai2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "BeieiGekimetsu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Byakkotai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "ChizomeNoDenrei"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ComradeinArms"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ComradeinArms2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "DaiKoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "DaiNipponNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "DaitoaKessenNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "DaitoaSensoKaigunNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "DaiTouaSensouKaigunnoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "DatoBeiei"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "DokinoSakura"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "EireiSanka"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "FieldEncampmentSong"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "FujinJugunka"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GekkaNoJin"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GenkoHotoNoIkusa"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GetsuGetsuKaSuiMokuKinKin"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "GetsuGetsuKaSuiMokuKinKin2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Gochin"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Gouchin"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GunjinChokuyu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GunkanKoshinkyoku2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GunkanKoshinkyoku3"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GunkanKoushinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GunkanMarch"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "GuraidaButai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "HakuiNoYushiNiTsugu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "HashireHinomaruGinrinButai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "HawaiDaikaisen"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "HinomaruKoshinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "HiroseChuusa"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "HoheiNoHonryo"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "IkaniKyofu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "IkokuNoOka"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "IndoKokuSakusenNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KachidokiNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KakuteKamikazeWaFuku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KanetsushikiKoshinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KatoHayabusaSentotai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KatouHayabusaSentoutai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KigenniSenRokuHyakunen"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KijoNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KimigayoKoushinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KimiKosoTsugiNoArawashiDa"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KogunNyujo"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KogunTaishoNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KokuminShingunka"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "KuniNoShizumemizukuKabaneInochiWoSutete"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ManshukokuKoteiHeikaHogeika"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "MantetsuShaka"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "MaraiNoTora"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "MugitoHeitai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "NihonkaiKaisen"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "NihonRikugun"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "NipponKaigun"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "NipponRikugun"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "NisshokiNoMotoNi"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RabauruKaigunKokutai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RaigekitaiNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RaigekitaiShutsudo"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RikugunBunretsuKoshinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RikugunSokuhoKoshin"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RippaNaHeitai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "RoeiNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "SaipanJunkokuNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "SeinenNippon"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Senyu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "SenyunoIkotsuwoDaite"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Senyuu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ShikishimakanKoshinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ShonenSenshaheiNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "ShoriNoHiMade"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ShowaIshinKoshinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "ShusseiHeishiWoOkuruUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ShusseiHeishiWoOkuruUta2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "ShusseiKansoNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "SoranoShinpei"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "SuishieinoKaiken"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "SusumeDaitoa"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TachibanaChusa"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TaiatariSeishin"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "TaiheiyouKoushinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TaiseiYokusanNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "shieldsocietyanthem"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TekiwaIkuman"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TekiWaIkuman2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TogetariKamikaze"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Tohiko"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "TokyoKoshinkyoku"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "UmeToHeitai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "UmiYukaba"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-music = {
-	song = "UmiYukabaBattoutai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "WakawashiNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "WareraNoGuntai"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "YasukuniJinjaNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "YokarenNoUta"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "YukanNaruSuihei"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "YukinoShingun"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "YukiNoShingun2"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
-}
-
-music = {
-	song = "Showa_rinyuarusongu"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = JAP
-					tag = MEN
-					tag = MAN
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			OR = {
-				date < 1936.01.10
-				AND = {
-					has_start_date > 1936.01.02
-					date < 1939.8.24
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-		modifier = {
-			factor = 2.5
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 10
-			}
-		}
-		modifier = {
-			factor = 2
-			any_country = {
-				has_war_with = ROOT
-				surrender_progress > 50
-			}
-		}
-	}
+    song = "AgeyoHinomaru"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "AikokuKoshinkyoku2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "AikokuKoushinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "AkatsukiniInoru"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "AmerikaBakugeki"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ArawashiNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "BakudanSanyushi"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "BanzaiHitoraYuugento"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Battoutai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Battoutai2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "BeieiGekimetsu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Byakkotai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "ChizomeNoDenrei"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ComradeinArms"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ComradeinArms2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "DaiKoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "DaiNipponNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "DaitoaKessenNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "DaitoaSensoKaigunNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "DaiTouaSensouKaigunnoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "DatoBeiei"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "DokinoSakura"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "EireiSanka"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "FieldEncampmentSong"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "FujinJugunka"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GekkaNoJin"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GenkoHotoNoIkusa"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GetsuGetsuKaSuiMokuKinKin"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "GetsuGetsuKaSuiMokuKinKin2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Gochin"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Gouchin"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GunjinChokuyu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GunkanKoshinkyoku2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GunkanKoshinkyoku3"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GunkanKoushinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GunkanMarch"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "GuraidaButai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "HakuiNoYushiNiTsugu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "HashireHinomaruGinrinButai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "HawaiDaikaisen"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "HinomaruKoshinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "HiroseChuusa"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "HoheiNoHonryo"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "IkaniKyofu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "IkokuNoOka"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "IndoKokuSakusenNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KachidokiNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KakuteKamikazeWaFuku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KanetsushikiKoshinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KatoHayabusaSentotai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KatouHayabusaSentoutai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KigenniSenRokuHyakunen"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KijoNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KimigayoKoushinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KimiKosoTsugiNoArawashiDa"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KogunNyujo"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KogunTaishoNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KokuminShingunka"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "KuniNoShizumemizukuKabaneInochiWoSutete"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ManshukokuKoteiHeikaHogeika"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "MantetsuShaka"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "MaraiNoTora"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "MugitoHeitai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "NihonkaiKaisen"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "NihonRikugun"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "NipponKaigun"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "NipponRikugun"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "NisshokiNoMotoNi"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RabauruKaigunKokutai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RaigekitaiNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RaigekitaiShutsudo"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RikugunBunretsuKoshinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RikugunSokuhoKoshin"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RippaNaHeitai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "RoeiNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "SaipanJunkokuNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "SeinenNippon"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Senyu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "SenyunoIkotsuwoDaite"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Senyuu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ShikishimakanKoshinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ShonenSenshaheiNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "ShoriNoHiMade"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ShowaIshinKoshinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "ShusseiHeishiWoOkuruUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ShusseiHeishiWoOkuruUta2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "ShusseiKansoNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "SoranoShinpei"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "SuishieinoKaiken"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "SusumeDaitoa"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TachibanaChusa"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TaiatariSeishin"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "TaiheiyouKoushinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TaiseiYokusanNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "shieldsocietyanthem"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TekiwaIkuman"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TekiWaIkuman2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TogetariKamikaze"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Tohiko"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "TokyoKoshinkyoku"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "UmeToHeitai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "UmiYukaba"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+music = {
+    song = "UmiYukabaBattoutai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "WakawashiNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "WareraNoGuntai"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+
+music = {
+    song = "YasukuniJinjaNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "YokarenNoUta"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "YukanNaruSuihei"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "YukinoShingun"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "YukiNoShingun2"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
+}
+
+music = {
+    song = "Showa_rinyuarusongu"
+
+    chance = {
+        factor = 1
+        modifier = {
+            factor = 0
+            NOT = {
+                OR = {
+                    tag = JAP
+                    tag = MEN
+                    tag = MAN
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            has_war = no
+        }
+        modifier = {
+            factor = 2.5
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 10
+            }
+        }
+        modifier = {
+            factor = 2
+            any_country = {
+                has_war_with = ROOT
+                surrender_progress > 50
+            }
+        }
+    }
 }
