@@ -1,0 +1,203 @@
+music = {
+	name = "Warszawianka"
+	file = "Warszawianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheRestlessYouth"
+	file = "SongoftheRestlessYouth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheWorkersfromVienna"
+	file = "TheWorkersfromVienna.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PartisansofAmur"
+	file = "PartisansofAmur.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WorkersMarseillaise"
+	file = "WorkersMarseillaise.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AganisttheColdMorning"
+	file = "AganisttheColdMorning.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BrotherstheSunofFreedom"
+	file = "BrotherstheSunofFreedom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DefendPeace"
+	file = "DefendPeace.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Cranes"
+	file = "Cranes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Flames"
+	file = "Flames.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HarvestSong"
+	file = "HarvestSong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ImmortalVictims"
+	file = "ImmortalVictims.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Katyusha"
+	file = "Katyusha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "LetsDoOurBest"
+	file = "LetsDoOurBest.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Meadowlands"
+	file = "Meadowlands.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MoscowEvening"
+	file = "MoscowEvening.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "OnTowardstheRedMorning"
+	file = "OnTowardstheRedMorning.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "OnYourWay"
+	file = "OnYourWay.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Peddlers"
+	file = "Peddlers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheCudgel"
+	file = "SongoftheCudgel.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheFatherland"
+	file = "SongoftheFatherland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheInternationalStudentFederation"
+	file = "SongoftheInternationalStudentFederation.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheRedFlag"
+	file = "SongoftheRedFlag.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheRestlessYouth"
+	file = "SongoftheRestlessYouth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "StopoverinMoscow"
+	file = "StopoverinMoscow.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SongoftheVolgaTractor"
+	file = "SongoftheVolgaTractor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheAmurianWaves"
+	file = "TheAmurianWaves.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheBlueCloth"
+	file = "TheBlueCloth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheFireBurns"
+	file = "TheFireBurns.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheInternationale"
+	file = "TheInternationale.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ThereareinSpring"
+	file = "ThereareinSpring.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ThereisnoBetterColorThanThose"
+	file = "ThereisnoBetterColorThanThose.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheyFlytheDeaf"
+	file = "TheyFlytheDeaf.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WeareForging"
+	file = "WeareForging.ogg"
+	volume = 0.65
+}

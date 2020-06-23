@@ -1,0 +1,941 @@
+# COMMUNISM (War)
+
+music_station = "utagoe"
+
+music = {
+	song = "Warszawianka"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = yes
+			}
+	}
+
+}
+
+music = {
+	song = "WorkersMarseillaise"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = yes
+			}
+	}
+
+}
+
+music = {
+	song = "TheWorkersfromVienna"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "PartisansofAmur"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = yes
+			}
+	}
+
+}
+
+music = {
+	song = "SongoftheInternationalStudentFederation"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = yes
+			}
+	}
+
+}
+
+music = {
+	song = "ImmortalVictims"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = yes
+			}
+	}
+
+}
+
+music = {
+	song = "SongoftheRestlessYouth"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = yes
+			}
+	}
+
+}
+
+# COMMUNISM (Generic)
+
+music = {
+	song = "BrotherstheSunofFreedom"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "SongoftheRedFlag"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "Katyusha"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "LetsDoOurBest"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "Meadowlands"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "Flames"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "SongoftheCudgel"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "SongoftheFatherland"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "SongoftheVolgaTractor"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "TheInternationale"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+music = {
+	song = "WeareForging"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+	}
+
+}
+
+# COMMUNISM (Peace)
+
+music = {
+	song = "AganisttheColdMorning"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "MoscowEvening"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "StopoverinMoscow"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "Suliko"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+
+music = {
+	song = "OnTowardstheRedMorning"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "TheAmurianWaves"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "TheBlueCloth"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "TheFireBurns"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "Peddlers"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "Cranes"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "HarvestSong"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "ThereareinSpring"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "ThereisnoBetterColorThanThose"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+}
+
+music = {
+	song = "TheyFlytheDeaf"
+	
+	chance = {
+		factor = 2
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = JAP
+					has_government = communism
+                                      has_war = no
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			has_government = communism
+		}
+		modifier = {
+			factor = 2
+			tag = JAP
+			}
+		modifier = {
+			factor = 2
+			has_war = no
+			}
+	}
+
+
+}
