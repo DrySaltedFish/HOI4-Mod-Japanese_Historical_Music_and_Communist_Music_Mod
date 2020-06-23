@@ -1,5 +1,7 @@
-[h1]日本史实音乐及歌声运动音乐[/h1]
+[h1]日本史实音乐及歌声运动音乐模组中文翻译[/h1]
 [h3]A Japanese Historical Music & Japanese Communist Music Mod, Forked from "Japanese Historical Music Mod (+Japanese Communist Music)"[/h3]
+本模组在GitHub上开源。
+Source code of the mod is opened on Github.
 [img=https://steamuserimages-a.akamaihd.net/ugc/1257016207552867390/A9E15F3D85D5C06E6FF339399293B582BD198644/]
 Cover from [url=https://www.pixiv.net/artworks/33452791]artworks-33452791:[i]万国の労働者よ、団結せよ！[/i][/url] on Pixel by [url=https://www.pixiv.net/users/2476843]赤ぴよ[/url]さん.
 
@@ -11,7 +13,7 @@ Cover from [url=https://www.pixiv.net/artworks/33452791]artworks-33452791:[i]万
 
 [h2]English[/h2]
   Chinese translation of mod "[url=steamcommunity.com/sharedfiles/filedetails/?id=699176908]Japanese Historical Music Mod (+Japanese Communist Music)[/url]"
-  Display based on [url=https://steamcommunity.com/workshop/filedetails/?id=698748356]Chinese translation mod[/url] by [url=http://bbs.52pcgame.net/][noparse]52pcgame.net[/noparse][/url].
+  Display based on [url=https://steamcommunity.com/workshop/filedetails/?id=698748356]Chinese translation mod[/url] by [url=http://bbs.52pcgame.net/]52pcgame[/url].
   Need to install previous mentioned mods first.
   Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod. Issues can be pulled if any problem found.
 
