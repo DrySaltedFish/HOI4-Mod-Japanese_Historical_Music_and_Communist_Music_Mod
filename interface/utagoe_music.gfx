@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_utagoe_album_art"
+		texturefile = "gfx/utagoe_album_art.dds"
+		noOfFrames = 2
+	}	
+
+}
