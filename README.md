@@ -1,6 +1,6 @@
 注：这是一个钢铁雄心IV模组的源码的库。
 
-Notice: This repository is for a Mod of `Heart of Iron IV`.
+Notice: This repository is for a Mod of `Hearts of Iron IV`.
 
 ---
 
@@ -23,7 +23,7 @@ Cover from [artworks-33452791:*万国の労働者よ、団結せよ！*](https:/
 
 　　需要先安装上面提到的mod此mod才会生效。
 
-　　由于本人水平有限，许多条目尚未翻译或翻译不准确，若有错误或建议请通过GitHub上推Issue赐教（国区没法回复评论）。GitHub上此物品的库：https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod（就是这里啦）。
+　　由于本人水平有限，许多条目尚未翻译或翻译不准确，若有错误或建议请通过GitHub上推Issue赐教（国区没法回复评论）。GitHub上此物品的库：https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod （就是这里啦）。
 
 
 
@@ -45,7 +45,12 @@ Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-
 ![Preview2](_steam/Preview2.png)
 
 
+## 3. 安装 Install
+
+[Go to releases](https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod/releases)
+
+
 
 ## 3. 更新日志 Update Log
 
-[UpdateLog](_readme/UpdateLog.md)
+[Update Log](_readme/UpdateLog.md)
