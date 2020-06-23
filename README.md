@@ -17,7 +17,7 @@ Cover from [artworks-33452791:*万国の労働者よ、団結せよ！*](https:/
 
 ## 1. 中文
 
-　　此模组是“[Japanese Historical Music Mod (+Japanese Communist Music)](steamcommunity.com/sharedfiles/filedetails/?id=699176908)” 这个模组的中文翻译。
+　　此模组是“[Japanese Historical Music Mod (+Japanese Communist Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=699176908)” 这个模组的中文翻译。
 
 　　基于[52](http://bbs.52pcgame.net/)汉化组的[中文翻译](https://steamcommunity.com/workshop/filedetails/?id=698748356)显示。
 
@@ -29,13 +29,13 @@ Cover from [artworks-33452791:*万国の労働者よ、団結せよ！*](https:/
 
 ## 1. (My poor) English
 
-​	Chinese translation of mod "[Japanese Historical Music Mod (+Japanese Communist Music)](steamcommunity.com/sharedfiles/filedetails/?id=699176908)"
+    Chinese translation of mod "[Japanese Historical Music Mod (+Japanese Communist Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=699176908)"
 
-​	Display based on [Chinese translation mod](https://steamcommunity.com/workshop/filedetails/?id=698748356) by [52pcgame.net](http://bbs.52pcgame.net/).
+    Display based on [Chinese translation mod](https://steamcommunity.com/workshop/filedetails/?id=698748356) by [52pcgame.net](http://bbs.52pcgame.net/).
 
-​	Need to install previous mentioned mods first.
+    Need to install previous mentioned mods first.
 
-​	Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod (Of course it's here). Issues can be pulled if any problem found.
+​    Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod (Of course it's here). Issues can be pulled if any problem found.
 
 
 
