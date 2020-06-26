@@ -17,9 +17,19 @@ Cover from [artworks-33452791:*万国の労働者よ、団結せよ！*](https:/
 
 ## 1. 中文
 
-　　此模组是“[Japanese Historical Music Mod (+Japanese Communist Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=699176908)” 这个模组的中文翻译。
+　　此模组是“[Japanese Historical Music Mod (+Japanese Communist Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=699176908)” 这个模组的改进和中文翻译。一共有3个子项目：
 
-　　基于[52](http://bbs.52pcgame.net/)汉化组的[中文翻译](https://steamcommunity.com/workshop/filedetails/?id=698748356)显示。
+- （`master`分支）适配游戏版本号且未翻译的版本（**英文版**）
+  - 创意工坊的链接：尚未上传工坊；
+- （`master_chs`分支）适配游戏版本并附加中文翻译的版本
+  - 暂无上传工坊的打算；
+- （`master_chs_subproj`分支）仅有中文翻译
+  - [创意工坊的链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2138571972)；
+  - 文件依赖：原版mod或**英文版**mod;
+
+三个mod都有的文件依赖：
+
+　　[52](http://bbs.52pcgame.net/)汉化组的[中文翻译](https://steamcommunity.com/workshop/filedetails/?id=698748356)显示。
 
 　　需要先安装上面提到的mod此mod才会生效。
 
@@ -29,7 +39,15 @@ Cover from [artworks-33452791:*万国の労働者よ、団結せよ！*](https:/
 
 ## 1. (My poor) English
 
-Chinese translation of mod "[Japanese Historical Music Mod (+Japanese Communist Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=699176908)"
+Chinese translation and improvement of mod "[Japanese Historical Music Mod (+Japanese Communist Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=699176908)", including 3 subprojects:
+
+- (`master` branch) suit the game version number with no translation (**English version**)
+  - Link to this mod in Steam Workshop: didn't update yet;
+- (`master_chs` branch) suit the game version number with (Simplified) Chinese translation
+  - No upload plan for Workshop.
+- (`master_chs_subproj` branch) only (Simplified) Chinese translation
+  -  [Link to this mod in Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2138571972);
+  - File dependency: Ordinary mod or **English version** mod.
 
 Display based on [Chinese translation mod](https://steamcommunity.com/workshop/filedetails/?id=698748356) by [52pcgame.net](http://bbs.52pcgame.net/).
 
@@ -69,7 +87,7 @@ Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-
 
 `dev_chs`：mod带简体中文版翻译的分支，一般由`dev`与`trans_chs`合并得来；
 
-`dev_chs_subproj`：只带中文翻译的mod的分支，相当于一个单独的mod（[创意工坊的链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2138571972)）；
+`dev_chs_subproj`：只带中文翻译的mod的分支，相当于一个单独的mod；
 
 `trans_chs`：中文翻译文件的开发分支；
 
@@ -87,7 +105,7 @@ Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-
 
 `dev_chs`：branch for mod with (Simplified) Chinese translation, often merged from branch `dev` & `trans_chs`;
 
-`dev_chs_subproj`：branch for (Simplified) Chinese translation mod, can be considered as an individual mod ([Link to this mod in Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2138571972));
+`dev_chs_subproj`：branch for (Simplified) Chinese translation mod, can be considered as an individual mod;
 
 `trans_chs`: branch for developing Chinese translation;
 
