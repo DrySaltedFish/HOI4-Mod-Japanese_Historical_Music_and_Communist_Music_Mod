@@ -51,6 +51,47 @@ Repository of this project on GitHub: https://github.com/DrySaltedFish/HOI4-Mod-
 
 
 
-## 3. 更新日志 Update Log
+## 4. 更新日志 Update Log
 
 [Update Log](_readme/UpdateLog.md)
+
+
+
+## 5.分支说明 Branch Explanation
+
+##### 中文
+
+`master`：预备的发行版所在的分支；
+
+`workshop_origin`：Steam Workshop里原始的mod文件。
+
+`dev`：mod代码开发所在分支，并负担合并分支的功能；
+
+`dev_chs`：mod带简体中文版翻译的分支，一般由`dev`与`trans_chs`合并得来；
+
+`dev_chs_subproj`：只带中文翻译的mod的分支，相当于一个单独的mod（[创意工坊的链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2138571972)）；
+
+`trans_chs`：中文翻译文件的开发分支；
+
+`spt`：支持文件所在分支（如readme、md等文件）；
+
+所有的分支均不带有ogg文件，这些文件单独放在了`workshop_origin`分支下[`V0.01`标签的发行版](https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod/releases/tag/V0.01)里。
+
+##### 英文
+
+`master`: branch for release;
+
+`workshop_origin`：original mod file in Steam Workshop;
+
+`dev`：branch for mod development and merge;
+
+`dev_chs`：branch for mod with (Simplified) Chinese translation, often merged from branch `dev` & `trans_chs`;
+
+`dev_chs_subproj`：branch for (Simplified) Chinese translation mod, can be considered as an individual mod ([Link to this mod in Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2138571972));
+
+`trans_chs`: branch for developing Chinese translation;
+
+`spt`: branch for support file, e.g.: readme, markdown file;
+
+No branch contains ogg file, those files were put in [**release** of tag `v0.01`](https://github.com/DrySaltedFish/HOI4-Mod-Japanese_Historical_Music_and_Communist_Music_Mod/releases/tag/V0.01).
+
